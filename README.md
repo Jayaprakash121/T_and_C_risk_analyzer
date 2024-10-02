@@ -68,7 +68,7 @@ This tool aims to help users quickly identify and assess risks hidden within len
 3. python -m spacy download en_core_web_sm
 4. streamlit run app.py
 
-Example Usage
+### Example Usage
 1. Launch the application by running streamlit run app.py.
 2. Choose an option from the sidebar:
    - PDF: Upload a PDF containing the SaaS Terms and Conditions.
